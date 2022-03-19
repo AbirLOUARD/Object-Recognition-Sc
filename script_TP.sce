@@ -5,13 +5,13 @@ xdel(winsid());
 */
 
 
-// Question 1
+
 /*I=imread('Base\000002.png');
 G=rgb2gray(I);
 figure; imshow(G);
 */
 
-// Question 2
+
 
 /*I=imread('Base\000002.png');
 G=rgb2gray(I);
@@ -29,7 +29,7 @@ end*/
 
 //figure; imshow(B2);
 
-// Question 3
+
 
 /*I=imread('Base\000002.png');
 G=rgb2gray(I);
@@ -39,7 +39,7 @@ B2=imcomplement(B);
 figure; imshow(B2)*/
 
 
-// Question 4
+
 /*
 I=imread('Base\000002.png');
 G=rgb2gray(I);
@@ -53,7 +53,7 @@ figure; imshow(Id);
 
 */
 
-// Question 5
+
 /*
 clear;
 clc;
@@ -72,7 +72,7 @@ figure; imshow(Ii,jetcolormap(r));
 
 */
 
-// Question 6
+
 /*
 I=imread('Base\000002.png');
 G=rgb2gray(I);
@@ -87,7 +87,7 @@ Id=imdilate(Ir,e);
 disp(S,Bb,Cg);
 */
 
-// Question 7
+
 
 /*
 I=imread('Base\000002.png');
@@ -104,7 +104,7 @@ disp(S,Bb,Cg);
 
 */
 
-// Question 8
+
 /*
 clear;
 
@@ -123,7 +123,7 @@ figure; imshow(E2);
 */
 
 
-// Question 9
+
 /*
 
 I=imread('Base\000061.png');
@@ -141,7 +141,7 @@ Per = sum(E==%T);
 disp(Per);
 
 */
-//Question 10
+
 /*
 
 clear;
@@ -165,7 +165,7 @@ Cg=Cgi(:,indice_max);
 figure; imshow(Ii);
 */
 
-// Question 12
+
 /*
 clear;
 
@@ -179,7 +179,7 @@ G=rgb2gray(I);
 
 // CLASSIFICATION
 
-// Question 13
+
 /* 
 
 // Apprentissage
@@ -223,7 +223,7 @@ end
 
 */
 
-// Question 15
+
 
 /*
 for i=1:4
@@ -235,7 +235,7 @@ end
 */
 
 
-// Question 14
+
 
 /*
 xdel(winsid());
@@ -269,7 +269,7 @@ end
 
 */
 
-// Question 16
+
 
 /*
 
