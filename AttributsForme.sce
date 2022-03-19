@@ -1,4 +1,4 @@
-// Question 11
+
 
 function [Aire,Perimetre,Longueur,Largeur]=AttributsForme(Img_gris)
     
