@@ -1,4 +1,4 @@
-# Reconnaissance-objet
+# Object Recognition
 
 
 ## Table of contents
