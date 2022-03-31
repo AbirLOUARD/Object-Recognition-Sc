@@ -14,7 +14,7 @@ Object recognition aims to identify any object in an image database or a video. 
 ## Technologies
 
 Project created with:
-Python 3.7
+Scilab
 
 ## How To Use
 
