@@ -21,5 +21,5 @@ Python 3.7
 In your Terminal
 
 ```
-git clone https://github.com/AbirLOUARD/Reconnaissance-objet.git
+git clone https://github.com/AbirLOUARD/Object-Recognition-Sc.git
 ```
